@@ -1,0 +1,6 @@
+@samplemckupapi_HostAddress = http://localhost:5192
+
+GET {{samplemckupapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
